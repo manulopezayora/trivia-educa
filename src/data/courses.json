@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-05-12"
+  },
+  "courses": [
+    {
+      "course_order": 1,
+      "course_label": "1º Primaria",
+      "subjects": ["Matemáticas", "Lengua", "Ciencias Naturales", "Ciencias Sociales"]
+    },
+    {
+      "course_order": 2,
+      "course_label": "2º Primaria",
+      "subjects": ["Matemáticas", "Lengua", "Ciencias Naturales", "Ciencias Sociales"]
+    },
+    {
+      "course_order": 3,
+      "course_label": "3º Primaria",
+      "subjects": ["Matemáticas", "Lengua", "Ciencias Naturales", "Ciencias Sociales"]
+    },
+    {
+      "course_order": 4,
+      "course_label": "4º Primaria",
+      "subjects": ["Matemáticas", "Lengua", "Ciencias Naturales", "Ciencias Sociales", "Inglés"]
+    },
+    {
+      "course_order": 5,
+      "course_label": "5º Primaria",
+      "subjects": ["Matemáticas", "Lengua", "Ciencias Naturales", "Ciencias Sociales", "Inglés"]
+    },
+    {
+      "course_order": 6,
+      "course_label": "6º Primaria",
+      "subjects": ["Matemáticas", "Lengua", "Ciencias Naturales", "Ciencias Sociales", "Inglés"]
+    },
+    {
+      "course_order": 7,
+      "course_label": "1º ESO",
+      "subjects": [
+        "Matemáticas",
+        "Lengua",
+        "Biología",
+        "Geografía",
+        "Historia",
+        "Física y Química",
+        "Inglés"
+      ]
+    },
+    {
+      "course_order": 8,
+      "course_label": "2º ESO",
+      "subjects": [
+        "Matemáticas",
+        "Lengua",
+        "Biología",
+        "Geografía",
+        "Historia",
+        "Física y Química",
+        "Inglés"
+      ]
+    },
+    {
+      "course_order": 9,
+      "course_label": "3º ESO",
+      "subjects": [
+        "Matemáticas",
+        "Lengua",
+        "Biología",
+        "Física y Química",
+        "Historia",
+        "Geografía e Historia",
+        "Inglés"
+      ]
+    },
+    {
+      "course_order": 10,
+      "course_label": "4º ESO",
+      "subjects": [
+        "Matemáticas",
+        "Lengua",
+        "Biología",
+        "Física y Química",
+        "Historia",
+        "Geografía e Historia",
+        "Inglés"
+      ]
+    },
+    {
+      "course_order": 11,
+      "course_label": "1º Bachillerato",
+      "subjects": [
+        "Matemáticas I",
+        "Matemáticas CCSS",
+        "Lengua",
+        "Biología",
+        "Física",
+        "Química",
+        "Historia",
+        "Historia de España",
+        "Geografía",
+        "Historia del Arte",
+        "Inglés",
+        "Filosofía"
+      ]
+    },
+    {
+      "course_order": 12,
+      "course_label": "2º Bachillerato",
+      "subjects": [
+        "Matemáticas II",
+        "Matemáticas CCSS",
+        "Lengua",
+        "Biología",
+        "Física",
+        "Química",
+        "Historia",
+        "Historia de España",
+        "Geografía",
+        "Historia del Arte",
+        "Inglés",
+        "Filosofía"
+      ]
+    }
+  ]
+}
